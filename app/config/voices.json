@@ -1,0 +1,10 @@
+{
+  "Default Reference Voice": {
+    "type": "reference_wav",
+    "path": "app/assets/voices/default_narrator.wav"
+  },
+  "Custom Reference Voice": {
+    "type": "reference_wav",
+    "path": ""
+  }
+}

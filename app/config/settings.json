@@ -1,0 +1,15 @@
+{
+  "ffmpeg_path": "",
+  "libreoffice_path": "",
+  "default_output_folder": "app/output",
+  "default_voice": "Default Reference Voice",
+  "default_speech_speed": "+0%",
+  "theme": "Dark",
+  "xtts_device": "Auto",
+  "xtts_preload_model": false,
+  "xtts_chunk_size": 900,
+  "xtts_generation_quality": "Balanced",
+  "xtts_cache_audio": true,
+  "xtts_reference_wav": "app/assets/voices/default_narrator.wav",
+  "reuse_existing_narration": true
+}

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+tmp/
+output/
+reports/*.json
+input/*.pptx
+input/*.docx
+app/tmp/
+app/output/
+app/reports/*.json
+build/
+dist/
+*.spec.bak
