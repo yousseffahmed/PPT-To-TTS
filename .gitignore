@@ -13,3 +13,9 @@ app/reports/*.json
 build/
 dist/
 *.spec.bak
+
+models/
+app/cache/
+*.pth
+*.mp3
+.DS_Store
